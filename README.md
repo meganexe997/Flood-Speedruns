@@ -6,7 +6,7 @@ Bienvenido al sitio oficial de **SM64COOPDX Flood Speedruns**. Aquí encontrará
 
 | Enlace | Descripción |
 |--------|------------|
-| 🏠 [Visita el Sitio Web] | Visualiza nuestra página principal |
+| 🏠 [Visita el Sitio Web] | En proceso |
 | 🎮 [Únete al Discord](https://discord.gg/a3Sya4bkJg) | Comunidad oficial de jugadores |
 | 📊 [Ver Leaderboard](https://docs.google.com/spreadsheets/d/1barQQQrfozdJoAHLB1S6eSXXFr5oRchWI1mFks0twFY/edit?gid=1170140989#gid=1170140989) | Rankings y resultados de carreras |
 
