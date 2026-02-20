@@ -2,7 +2,7 @@
 
 Bienvenido al sitio oficial de **SM64COOPDX Flood Speedruns**. Aquí encontrarás toda la información sobre nuestras carreras de speedrun en cooperativo.
 
-## 🚀 Enlaces Rápidos
+## 🚀 Enlaces 
 
 | Enlace | Descripción |
 |--------|------------|
@@ -21,7 +21,7 @@ Somos una comunidad dedicada a los speedruns cooperativos de Super Mario 64. Nos
 - 📈 Leaderboard actualizado
 - 🎯 Diferentes categorías de competencia
 
-## 📞 ¿Preguntas?
+##  ¿Preguntas?
 
 - **Discord:** Únete a nuestro servidor oficial
 - **Leaderboard:** Consulta los resultados de todas las carreras
