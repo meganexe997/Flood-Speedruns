@@ -1,6 +1,6 @@
 # 🌊 SM64COOPDX Flood Speedruns
 
-Bienvenido al sitio oficial de **SM64COOPDX Flood Speedruns**. Aquí encontrarás toda la información sobre nuestras carreras de speedrun en cooperativo.
+Bienvenido al repositorio oficial de **SM64COOPDX Flood Speedruns**. Aquí encontrarás toda la información sobre nuestras carreras de speedrun en cooperativo.
 
 ## 🚀 Enlaces 
 
